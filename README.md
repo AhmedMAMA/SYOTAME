@@ -25,7 +25,7 @@ Les fichiers et dossiers suivants sont essentiels au bon fonctionnement du progr
 * **38** places libres détectées automatiquement sur l’image ci-dessous
 * **5** sont réservées aux personnes en situation de handicap
 
-![Illustration du parking](images/park.jpg)
+![Illustration du parking](/images/park/park.jpg)
 
 ### 🧰 Librairies utilisées
 
